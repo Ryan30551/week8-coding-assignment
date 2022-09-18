@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: sienna;
+}
+
+h2 {
+    color: sienna;
+}
+
+h3 {
+    color: sienna;
+}
+
+h4 {
+    color: sienna;
+}
+
+p {
+    color: sienna;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+#social
+tr:hover {
+    background-color: orangered;
+}
+
+#firstName {
+    text-emphasis-style: bold;
+}
