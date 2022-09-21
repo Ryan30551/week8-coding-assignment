@@ -2,24 +2,8 @@ body {
     background-color: whitesmoke;
 }
 
-h1 {
-    color: sienna;
-}
-
-h2 {
-    color: sienna;
-}
-
-h3 {
-    color: sienna;
-}
-
-h4 {
-    color: sienna;
-}
-
 p {
-    color: sienna;
+    color: firebrick;
 }
 
 table {
@@ -33,11 +17,64 @@ th, td {
     border-bottom: 1px solid black;
 }
 
-#social
-tr:hover {
-    background-color: orangered;
+th {
+    font-style: italic;
+    font-size: x-large;
 }
 
-#firstName {
-    text-emphasis-style: bold;
+#header {
+    color: firebrick;
 }
+
+#mpheader {
+    color: firebrick;
+}
+
+#bevmenuheader {
+    color: firebrick;
+}
+
+#cyb {
+    color: firebrick;
+}
+
+#weare {
+    color: firebrick;
+}
+
+#signature {
+    color: firebrick;
+}
+
+#nav {
+    color: firebrick;
+}
+
+#email {
+    color: firebrick;
+}
+
+#fb {
+    font-weight: bolder;
+    font-size: x-large;
+    color: firebrick;
+}
+
+#insta {
+    font-weight: bolder;
+    font-size: x-large;
+    color: firebrick;
+}
+
+#bevmessage {
+    color: firebrick;
+}
+
+p.about {
+    color: firebrick;
+}
+
+table.menu {
+    color: firebrick;
+}
+
